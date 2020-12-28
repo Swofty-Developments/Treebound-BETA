@@ -1,0 +1,3 @@
+name: Treebound
+version: ${project.version}
+main: net.swofty.treebound.Treebound
